@@ -24,7 +24,7 @@
 - Includes cloud authentication, leaderboard, and progress tracking via Unity Cloud
 - Features collectible Big Data notes, quizzes, and power-up chase mechanics
 
-### 🤖 [Mudah Apartment Rent Predictor – KL & Selangor](https://github.com/wankenob1/mudah-apartment-price-predictor](https://github.com/wankenob1/selangorkl-rental-predictor)
+### 🤖 [Mudah Apartment Rent Predictor – KL & Selangor](https://github.com/wankenob1/selangorkl-rental-predictor)
 - Built a machine learning model (Random Forest with GridSearchCV) to predict apartment rental prices in Kuala Lumpur and Selangor
 - Performed full data cleaning, preprocessing, and feature engineering using Python and Pandas
 - Developed a CLI-based interface (`predict.py`) for users to input apartment features and get rent predictions

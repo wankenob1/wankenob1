@@ -24,10 +24,12 @@
 - Includes cloud authentication, leaderboard, and progress tracking via Unity Cloud
 - Features collectible Big Data notes, quizzes, and power-up chase mechanics
 
-### 📊 Rental Market Analysis – KL & Selangor
-- SQL (HiveQL) + Power BI analysis on apartment rental pricing
-- Queried large datasets and visualized insights by location and property type
-- Created dashboards to support urban housing strategy discussions
+### 🤖 [Mudah Apartment Rent Predictor – KL & Selangor](https://github.com/wankenob1/mudah-apartment-price-predictor)
+- Built a machine learning model (Random Forest with GridSearchCV) to predict apartment rental prices in Kuala Lumpur and Selangor
+- Performed full data cleaning, preprocessing, and feature engineering using Python and Pandas
+- Developed a CLI-based interface (`predict.py`) for users to input apartment features and get rent predictions
+- Used scikit-learn for model training, hyperparameter tuning, and evaluation (RMSE, R² score)
+- Organized modular scripts and saved trained models for reuse with `joblib`
 
 ---
 

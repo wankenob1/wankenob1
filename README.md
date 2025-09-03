@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Wan Akmal
 
-💼 Aspiring data professional with experience in SQL automation, Power BI, Unity development & C#  
-🧠 Currently learning machine learning and AI to build intelligent solutions  
-🌟 Known for initiative, cross-functional collaboration, and a strong learning mindset
+💡 I build things with data, code, and a bit of creativity.  
+🚀 From SQL dashboards to Unity games — I like mixing tech with problem-solving.  
+🧠 Currently part of the K-Youth Development Programme (Machine Learning Track), sharpening my ML & AI skills  
+🌟 I bring initiative, teamwork, and a strong “let’s figure it out” mindset.
 
 ---
 
@@ -20,16 +21,13 @@
 
 ### 🎮 [Data Quest – A 2D Big Data Learning Game](https://github.com/wankenob1/Data-Quest)
 - Final Year Project supervised by Dr. Jasber Kaur
-- Pac-Man inspired educational Android game built with Unity & C#
-- Includes cloud authentication, leaderboard, and progress tracking via Unity Cloud
-- Features collectible Big Data notes, quizzes, and power-up chase mechanics
+- Pac-Man-style mobile game that teaches Big Data concepts (Unity + C# + Unity Cloud)
 
 ### 🤖 [Mudah Apartment Rent Predictor – KL & Selangor](https://github.com/wankenob1/selangorkl-rental-predictor)
-- Built a machine learning model (Random Forest with GridSearchCV) to predict apartment rental prices in Kuala Lumpur and Selangor
-- Performed full data cleaning, preprocessing, and feature engineering using Python and Pandas
-- Developed a CLI-based interface (`predict.py`) for users to input apartment features and get rent predictions
-- Used scikit-learn for model training, hyperparameter tuning, and evaluation (RMSE, R² score)
-- Organized modular scripts and saved trained models for reuse with `joblib`
+- Random Forest model with Python & scikit-learn to estimate apartment rental prices
+
+### 🛠️ Fraud Microservices Dashboard (Backend) 
+- Built with Python, FastAPI & Pandas; developed 5 REST APIs for data ingestion, predictive analytics, and visualization, secured with JWT, and deployed on Railway for real-time use
 
 ---
 

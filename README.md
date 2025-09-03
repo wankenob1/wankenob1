@@ -26,7 +26,7 @@
 ### 🤖 [Mudah Apartment Rent Predictor – KL & Selangor](https://github.com/wankenob1/selangorkl-rental-predictor)
 - Random Forest model with Python & scikit-learn to estimate apartment rental prices
 
-### 🛠️ Fraud Microservices Dashboard (Backend) 
+### 🛠️ [Fraud Microservices Dashboard (Backend)](https://github.com/Fraud-Detection-Team/fraud-backend)
 - Built with Python, FastAPI & Pandas; developed 5 REST APIs for data ingestion, predictive analytics, and visualization, secured with JWT, and deployed on Railway for real-time use
 
 ---
